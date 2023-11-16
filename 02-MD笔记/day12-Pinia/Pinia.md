@@ -111,4 +111,4 @@ export const useCounterStore = defineStore('counter', () => {
 
 4. 其他配置，看官网文档即可
 
- 
+#####  
